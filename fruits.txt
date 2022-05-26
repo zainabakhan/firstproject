@@ -1,2 +1,4 @@
 peach
 orange
+banana
+apple
