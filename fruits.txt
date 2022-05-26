@@ -2,3 +2,6 @@ peach
 orange
 banana
 apple
+pine apple
+cherry
+melon
